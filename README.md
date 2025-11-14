@@ -1311,5 +1311,6 @@ MIT License
 
 Pull requests are welcome. For major changes, please open an issue first.
 
+## Author
 
-[anim]:<http://www.w3schools.com/cssref/css_animatable.asp>
+Levent Özbilgiç
